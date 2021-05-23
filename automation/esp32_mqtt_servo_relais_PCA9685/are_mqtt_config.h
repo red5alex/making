@@ -4,7 +4,7 @@
 #define MQTT_USER NULL //--> Create this in credentials.h
 #define MQTT_PASSWORD NULL //--> Create this in credentials.h
 
-#define MQTT_SUBSCRIBE_TOPIC "red5alex/valve01/#"  // make sure to choose the correct filter
+#define MQTT_SUBSCRIBE_TOPIC "red5alex/valve01/command/#"  // make sure to choose the correct filter
 
 #define MQTT_LASTWILL_TOPIC "red5alex/valve01/lastwill"
 #define MQTT_LASTWILL_MESSAGE "connection lost"
