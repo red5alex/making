@@ -9,6 +9,11 @@
       on the subscribed MQTT.
 */
 
+#define FIRMWARE_NAME "Irri359"
+#define FIRMWARE_SOURCE "esp32_mqtt_servo_relais_PCA9685.ino"
+#define FIRMWARE_VERSION "0.001"
+#define FIRMWARE_DATE "2021-05-23"
+
 #include <Arduino.h>
 #define LED_BUILTIN 2
 
@@ -44,6 +49,12 @@ PubSubClient mqttclient(espClient);
 // For JSON deserialization
 StaticJsonDocument<200> doc;
 
+// Telemetry variables
+long totalizer = 0;
+long countdown = 0;
+float seconds_per_pulse = 10.;
+
+// servo settings (obsolete?)
 int servoA_closed_angle = SERVO_A_CLOSE;
 int servoA_open_angle = SERVO_A_OPEN;
 
@@ -272,8 +283,6 @@ void setup() {
   Wire.begin(32, 33);  //SDA, SCL
   pwm.begin();
   pwm.setPWMFreq(50); // This is the maximum PWM frequency
-
-
   
   // configure Servo
   servo_A.setPeriodHertz(servo_A_dutycycle);
