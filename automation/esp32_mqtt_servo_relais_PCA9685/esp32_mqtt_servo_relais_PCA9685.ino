@@ -12,7 +12,7 @@
 
 #define FIRMWARE_NAME "Irri359-StregerEmulation"
 #define FIRMWARE_SOURCE "esp32_mqtt_servo_relais_PCA9685.ino"
-#define FIRMWARE_VERSION "0.002"
+#define FIRMWARE_VERSION "0.003"
 #define FIRMWARE_DATE "2021-05-23"
 
 #include <Arduino.h>
@@ -60,7 +60,7 @@ StaticJsonDocument<200> doc;
 
 // Telemetry variables - these will be send regulary
 float pump_totalizer = 0.;
-float pump_target = 1000.;
+float pump_target = 0.;
 //float pump_voltage;
 
 // status variables - these are for internal use
