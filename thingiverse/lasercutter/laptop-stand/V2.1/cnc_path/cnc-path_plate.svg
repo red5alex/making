@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="272.66458mm"
+   height="171.74304mm"
+   viewBox="0 0 272.66458 171.74304"
+   version="1.1"
+   id="svg1021"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="cnc-path_plate.svg">
+  <defs
+     id="defs1015">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path1025"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path1028"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1030"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1032"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="245.11939"
+     inkscape:cy="391.50912"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1018">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-223.50104,-199.7892)">
+    <g
+       id="g1308"
+       transform="matrix(0.26458333,0,0,0.26458333,231.13333,-31.610159)"
+       style="fill:#00ff00;fill-opacity:1">
+      <g
+         id="g1039"
+         inkscape:label="0"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1041"
+         inkscape:label="SECTION_CUTTING_LINE"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1043"
+         inkscape:label="DETAIL_VIEW_BORDER"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1045"
+         inkscape:label="DETAIL_VIEW_PARENT_BORDER"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1047"
+         inkscape:label="TEXT"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1049"
+         inkscape:label="SKETCHED_GEOMETRY"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1051"
+         inkscape:label="VIRTUAL_SHARPS"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1053"
+         inkscape:label="CENTERLINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1055"
+         inkscape:label="CENTERMARKS"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1057"
+         inkscape:label="TABLES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1059"
+         inkscape:label="IMAGES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1061"
+         inkscape:label="ANNOTATION_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1063"
+         inkscape:label="ANNOTATION_TEXT"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1065"
+         inkscape:label="SIDE_THREAD_SYMBOLS"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1067"
+         inkscape:label="SIDE_THREAD_SYMBOLS_HIDDEN"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1069"
+         inkscape:label="SURFACE_THREAD_SYMBOLS"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1071"
+         inkscape:label="SURFACE_THREAD_SYMBOLS_ON_"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1073"
+         inkscape:label="SURFACE_THREAD_SYMBOLS_HID"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1075"
+         inkscape:label="BLIND_THREAD_SYMBOLS"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1077"
+         inkscape:label="BLIND_THREAD_SYMBOLS_HIDDE"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1079"
+         inkscape:label="EXPLODE_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1081"
+         inkscape:label="BREAK_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1083"
+         inkscape:label="SHEETMETAL_BEND_LINES_UP"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1085"
+         inkscape:label="SHEETMETAL_BEND_LINES_DOWN"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1087"
+         inkscape:label="SHEETMETAL_BEND_TANGENT_LI"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1089"
+         inkscape:label="SHEETMETAL_CUT_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1091"
+         inkscape:label="HIDDEN"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1093"
+         inkscape:label="VISIBLE"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1193"
+         inkscape:label="MODELSKETCH_VISIBLE"
+         style="fill:#00ff00;fill-opacity:1">
+        <path
+           sodipodi:type="inkscape:offset"
+           inkscape:radius="0.050000001"
+           inkscape:original="M -28.345703 875.08008 L -28.345703 988.4668 L 0 988.4668 L 0 960.11914 L 13.605469 960.11914 L 13.984375 1409.8027 L -28.345703 1409.8027 L -28.345703 1466.4941 L -28.345703 1523.1875 L 0 1523.1875 L 13.984375 1523.1875 L 72.298828 1523.1875 C 77.310795 1523.1875 82.116163 1521.1963 85.660156 1517.6523 L 112.38672 1490.9277 C 115.93071 1487.3837 120.73608 1485.3926 125.74805 1485.3926 L 847.10156 1485.3926 C 852.11352 1485.3926 856.92085 1487.3837 860.46484 1490.9277 L 887.18945 1517.6523 C 890.73344 1521.1963 895.54076 1523.1875 900.55273 1523.1875 L 958.86523 1523.1875 L 972.84961 1523.1875 L 1001.1973 1523.1875 L 1001.1973 1466.4941 L 1000.5391 1409.8027 L 958.20898 1409.8008 L 958.83398 960.09375 L 972.84961 960.11914 L 972.84961 988.44141 L 1001.1973 988.48047 L 1001.1973 875.09375 L 972.84961 875.09375 L 958.86523 875.09375 L 910 875.09375 C 904.98803 875.09375 900.18267 877.08491 896.63867 880.62891 L 870.01172 907.25586 C 866.40973 910.85785 861.5057 912.85282 856.41211 912.78906 L 114.64062 903.50391 C 110.63294 903.45371 106.74351 902.13136 103.53711 899.72656 L 75.716797 878.85938 C 72.445687 876.40604 68.467791 875.08008 64.378906 875.08008 L 13.984375 875.08008 L -28.345703 875.08008 z M 941.97461 911.04297 L 958.86719 911.06641 L 958.86523 936.60156 L 941.93945 936.57812 L 941.97461 911.04297 z M 13.605469 911.06641 L 30.904297 911.06641 L 30.904297 936.60156 L 13.984375 936.60156 L 13.605469 911.06641 z "
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000"
+           id="path1191"
+           d="M -28.345703,875.08008 V 988.4668 H 0 v -28.34766 h 13.605469 l 0.378906,449.68356 h -42.330078 v 56.6914 56.6934 H 0 13.984375 72.298828 c 5.011967,0 9.817335,-1.9912 13.361328,-5.5352 l 26.726564,-26.7246 c 3.54399,-3.544 8.34936,-5.5351 13.36133,-5.5351 h 721.35351 c 5.01196,0 9.81929,1.9911 13.36328,5.5351 l 26.72461,26.7246 c 3.54399,3.544 8.35131,5.5352 13.36328,5.5352 h 58.3125 13.98438 28.34769 v -56.6934 l -0.6582,-56.6914 -42.33012,-0 0.625,-449.70705 14.01563,0.0254 v 28.32227 l 28.34769,0.0391 V 875.09375 H 972.84961 958.86523 910 c -5.01197,0 -9.81733,1.99116 -13.36133,5.53516 l -26.62695,26.62695 c -3.60199,3.60199 -8.50602,5.59696 -13.59961,5.5332 l -741.77149,-9.28515 c -4.00768,-0.0502 -7.89711,-1.37255 -11.10351,-3.77735 L 75.716797,878.85938 c -3.27111,-2.45334 -7.249006,-3.7793 -11.337891,-3.7793 H 13.984375 Z m 970.320313,35.96289 16.89258,0.0234 -0.002,25.53515 -16.92578,-0.0234 z m -928.369141,0.0234 h 17.298828 v 25.53515 H 13.984375 Z" />
+      </g>
+      <g
+         id="g1195"
+         inkscape:label="MODELSKETCH_CONSTRUCTION"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1197"
+         inkscape:label="HIDDEN_BASE_VIEW"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1199"
+         inkscape:label="TANGENT_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1201"
+         inkscape:label="TANGENT_HIDDEN"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1203"
+         inkscape:label="INVISIBLE_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1205"
+         inkscape:label="VIEW_HATCHES"
+         style="fill:#00ff00;fill-opacity:1" />
+      <g
+         id="g1207"
+         inkscape:label="SECTION_JOG_LINES"
+         style="fill:#00ff00;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
